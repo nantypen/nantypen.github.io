@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://nantypen.github.io/sitemap
+Sitemap: https://nantypen.github.io/app/sitemap
+Sitemap: https://nantypen.github.io/assets/sitemap
+Sitemap: https://nantypen.github.io/css/sitemap
+Sitemap: https://nantypen.github.io/includes/sitemap
+Sitemap: https://nantypen.github.io/item/sitemap
+Sitemap: https://nantypen.github.io/src/sitemap
